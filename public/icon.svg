@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#fff2df"/>
+  <circle cx="256" cy="220" r="118" fill="#f0bd91"/>
+  <path d="M146 226c4-94 54-150 113-150 64 0 111 58 107 151-27-17-54-26-82-26-49 0-87 15-138 25z" fill="#745044"/>
+  <circle cx="216" cy="222" r="10" fill="#42251d"/>
+  <circle cx="296" cy="222" r="10" fill="#42251d"/>
+  <path d="M220 275c26 20 52 20 75 0" fill="none" stroke="#8b3b28" stroke-width="12" stroke-linecap="round"/>
+  <path d="M110 455c15-105 81-149 146-149s133 47 146 149" fill="#c74822"/>
+  <path d="M177 340h158v115H177z" fill="#fff8ef"/>
+  <text x="256" y="430" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" font-weight="700" fill="#6b2a1a">DP</text>
+</svg>
