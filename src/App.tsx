@@ -1091,7 +1091,7 @@ function App() {
     </>
   )
 
-  const content: Record<View, JSX.Element> = {
+  const content = {
     home,
     'quick-sale': quickSale,
     transfer,
